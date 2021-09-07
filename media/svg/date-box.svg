@@ -1,0 +1,37 @@
+<svg id="date_box" xmlns="http://www.w3.org/2000/svg" width="23" height="25" viewBox="0 0 23 25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d3d2d2;
+      }
+
+      .cls-2 {
+        fill: #edecec;
+      }
+
+      .cls-3 {
+        fill: #e6e5e5;
+      }
+
+      .cls-4 {
+        fill: #dad9d9;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" y="3" width="23" height="22" rx="2" ry="2"/>
+  <rect class="cls-2" x="2" y="9" width="4" height="4"/>
+  <rect id="Rectangle_2_copy" data-name="Rectangle 2 copy" class="cls-2" x="7" y="9" width="4" height="4"/>
+  <rect id="Rectangle_2_copy_2" data-name="Rectangle 2 copy 2" class="cls-2" x="12" y="9" width="4" height="4"/>
+  <rect id="Rectangle_2_copy_3" data-name="Rectangle 2 copy 3" class="cls-2" x="17" y="9" width="4" height="4"/>
+  <rect id="Rectangle_2_copy_4" data-name="Rectangle 2 copy 4" class="cls-2" x="2" y="14" width="4" height="4"/>
+  <rect id="Rectangle_2_copy_4-2" data-name="Rectangle 2 copy 4" class="cls-2" x="7" y="14" width="4" height="4"/>
+  <rect id="Rectangle_2_copy_4-3" data-name="Rectangle 2 copy 4" class="cls-2" x="12" y="14" width="4" height="4"/>
+  <rect id="Rectangle_2_copy_4-4" data-name="Rectangle 2 copy 4" class="cls-2" x="17" y="14" width="4" height="4"/>
+  <rect id="Rectangle_2_copy_5" data-name="Rectangle 2 copy 5" class="cls-2" x="2" y="19" width="4" height="4"/>
+  <rect id="Rectangle_2_copy_5-2" data-name="Rectangle 2 copy 5" class="cls-2" x="7" y="19" width="4" height="4"/>
+  <rect id="Rectangle_2_copy_5-3" data-name="Rectangle 2 copy 5" class="cls-2" x="12" y="19" width="4" height="4"/>
+  <rect id="Rectangle_2_copy_5-4" data-name="Rectangle 2 copy 5" class="cls-2" x="17" y="19" width="4" height="4"/>
+  <rect class="cls-3" x="6" width="2" height="5"/>
+  <rect id="Rectangle_3_copy" data-name="Rectangle 3 copy" class="cls-3" x="15" width="2" height="5" rx="0.5" ry="0.5"/>
+  <rect class="cls-4" y="6" width="23" height="1"/>
+</svg>
